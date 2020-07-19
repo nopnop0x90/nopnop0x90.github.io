@@ -1,1 +1,4 @@
-$('#sec1').text('Section 1')
+$(()=>
+{
+  $('#sec1').text('Section 1');
+});
